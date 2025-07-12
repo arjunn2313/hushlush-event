@@ -30,7 +30,7 @@ export default function Section4() {
                   <div className="col-lg-7">
                     <div className="img1 image-anime reveal">
                       <img
-                        src="/assets/img/all-images/event/we.png"
+                        src="/assets/img/all-images/event/we1.jpg"
                         alt=""
                       />
                     </div>
@@ -78,7 +78,7 @@ export default function Section4() {
                   <div className="col-lg-7">
                     <div className="img1 image-anime reveal">
                       <img
-                        src="/assets/img/all-images/event/birthday.png"
+                        src="/assets/img/all-images/event/birthday.jpg"
                         alt=""
                       />
                     </div>
@@ -126,7 +126,7 @@ export default function Section4() {
                   <div className="col-lg-7">
                     <div className="img1 image-anime reveal">
                       <img
-                        src="/assets/img/all-images/event/cop-ev.png"
+                        src="/assets/img/all-images/event/cop-ev.jpg"
                         alt=""
                       />
                     </div>

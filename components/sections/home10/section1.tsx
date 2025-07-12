@@ -92,7 +92,7 @@ export default function Section1() {
               <div className="hero10-images">
                 <div className="img1">
                   <img
-                    src="assets/img/all-images/hero/1.jpg"
+                    src="assets/img/all-images/hero/11.png"
                     alt=""
                   />
                 </div>
