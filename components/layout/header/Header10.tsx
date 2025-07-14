@@ -177,10 +177,10 @@ export default function Header10({ scroll, isMobileMenu, handleMobileMenu, isSea
 										</div> */}
 										<ul>
 											<li>
-												<Link href="/#"><i className="fa-brands fa-facebook-f" /></Link>
+												<Link href="https://www.facebook.com/people/Hush-Lush-Events/61577939084079/"><i className="fa-brands fa-facebook-f" /></Link>
 											</li>
 											<li>
-												<Link href="/#"><i className="fa-brands fa-instagram" /></Link>
+												<Link href="https://www.instagram.com/hushlushevents/"><i className="fa-brands fa-instagram" /></Link>
 											</li>
 											<li>
 												<Link href="/#"><i className="fa-brands fa-linkedin-in" /></Link>

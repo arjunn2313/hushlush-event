@@ -48,7 +48,7 @@ export default function Section1() {
 							</div> */}
               <div className="hero6-header">
                 <h5 className="text-gold">
-                  <img src="/assets/img/icons/sub-logo1.svg" alt="" />
+                  <img src="/assets/img/logo/fav-logo.png" alt="" />
                   Hush Lush Wedding Planners
                 </h5>
                 <div className="space24" />
@@ -72,12 +72,25 @@ export default function Section1() {
                   </li>
                 </ul>
                 <div className="space32" />
-                <div className="btn-area1">
+                {/* <div className="btn-area1">
                   <Link href="/contact" className="vl-btn10 bg-gold">
                     Book Your Consultation{" "}
                     <img src="/assets/img/icons/arrow2.svg" alt="" />
                   </Link>
+                </div> */}
+
+                <div className="btn-area1">
+                  <a
+                    href="https://wa.me/971551084366?text=Hi%2C%20I%27m%20interested%20in%20booking%20a%20consultation.%20Please%20share%20the%20details."
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="vl-btn10 bg-gold"
+                  >
+                    Book Your Consultation{" "}
+                    <img src="/assets/img/icons/arrow2.svg" alt="" />
+                  </a>
                 </div>
+
                 <div className="arrow-btn">
                   <div className="content ">
                     <CircleText text="Celebrate With Elegance." />
@@ -91,28 +104,16 @@ export default function Section1() {
             <div className="col-lg-5">
               <div className="hero10-images">
                 <div className="img1">
-                  <img
-                    src="assets/img/all-images/hero/wed 3.jpg"
-                    alt=""
-                  />
+                  <img src="assets/img/all-images/hero/wed 3.jpg" alt="" />
                 </div>
                 <div className="img2">
-                  <img
-                   src="assets/img/all-images/hero/wed 2.jpg"
-                    alt=""
-                  />
+                  <img src="assets/img/all-images/hero/wed 2.jpg" alt="" />
                 </div>
                 <div className="img3">
-                  <img
-                    src="assets/img/all-images/hero/wed 4.jpg"
-                    alt=""
-                  />
+                  <img src="assets/img/all-images/hero/wed 4.jpg" alt="" />
                 </div>
                 <div className="img4">
-                  <img
-                  src="assets/img/all-images/hero/mm.jpg"
-                    alt=""
-                  />
+                  <img src="assets/img/all-images/hero/mm.jpg" alt="" />
                 </div>
                 <img
                   src="/assets/img/elements/elements38.png"

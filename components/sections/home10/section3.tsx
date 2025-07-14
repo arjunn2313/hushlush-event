@@ -43,11 +43,16 @@ export default function Section3() {
                         tradition, and flair — stress-free.
                       </p>
                       <div className="space32" />
-                      <div className="btn-area1 ">
-                        <Link href="/weddings" className="vl-btn10 bg-gold">
+                      <div className="btn-area1">
+                        <a
+                          href="https://wa.me/971551084366?text=Hi%2C%20I%27m%20interested%20in%20your%20wedding%20services.%20Can%20you%20share%20more%20details%3F"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="vl-btn10 bg-gold"
+                        >
                           Explore Our Weddings{" "}
                           <img src="/assets/img/icons/arrow2.svg" alt="" />
-                        </Link>
+                        </a>
                       </div>
                     </div>
                   </div>
@@ -64,8 +69,6 @@ export default function Section3() {
               </div>
             </div>
           </div>
-
-		 
 
           {/* <div className="space30" />
           <div className="row">

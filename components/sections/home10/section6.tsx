@@ -32,10 +32,22 @@ export default function Section6() {
                 data-aos="fade-left"
                 data-aos-duration={1200}
               >
-                <Link href="/contact" className="vl-btn10 bg-gold">
+                {/* <Link href="/contact" className="vl-btn10 bg-gold">
                   Book Your Consultation&nbsp;
                   <img src="/assets/img/icons/arrow2.svg" alt="" />
-                </Link>
+                </Link> */}
+
+                 <a
+  href="https://wa.me/971551084366?text=Hi%2C%20I%27d%20like%20to%20book%20a%20consultation.%20Please%20share%20the%20details."
+  target="_blank"
+  rel="noopener noreferrer"
+  className="vl-btn10 bg-gold"
+>
+  Book Your Consultation&nbsp;
+  <img src="/assets/img/icons/arrow2.svg" alt="" />
+</a>
+
+
               </div>
             </div>
           </div>
