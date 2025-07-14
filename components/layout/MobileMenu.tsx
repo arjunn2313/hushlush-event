@@ -17,14 +17,14 @@ const handleAccordion = (key: any) => {
 							<div className="mobile-logo">
 								<Link href="//"><img src="/assets/img/logo/h-logo.png" alt="" /></Link>
 							</div>
-							<div className="mobile-nav-icon dots-menu" onClick={handleMobileMenu}>
+							{/* <div className="mobile-nav-icon dots-menu" onClick={handleMobileMenu}>
 								<i className="fa-solid fa-bars-staggered" />
-							</div>
+							</div> */}
 						</div>
 					</div>
 				</div>
 			</div>
-			<div className={`mobile-sidebar mobile-sidebar1 ${isMobileMenu ? 'mobile-menu-active' : ''}`}>
+			{/* <div className={`mobile-sidebar mobile-sidebar1 ${isMobileMenu ? 'mobile-menu-active' : ''}`}>
 				<div className="logosicon-area">
 					<div className="logos">
 						<img src="/assets/img/logo/logo2.png" alt="" />
@@ -141,7 +141,7 @@ const handleAccordion = (key: any) => {
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> */}
 		</>
 	)
 }

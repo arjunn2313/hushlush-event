@@ -55,7 +55,7 @@ export default function Section3() {
                   <div className="col-lg-6">
                     <div className="img1 image-anime reveal">
                       <img
-                        src="/assets/img/all-images/event/event.jpg"
+                        src="/assets/img/all-images/event/event2.jpg"
                         alt="Luxury Wedding Scene"
                       />
                     </div>

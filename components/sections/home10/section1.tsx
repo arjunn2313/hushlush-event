@@ -92,25 +92,25 @@ export default function Section1() {
               <div className="hero10-images">
                 <div className="img1">
                   <img
-                    src="assets/img/all-images/hero/11.png"
+                    src="assets/img/all-images/hero/wed 3.jpg"
                     alt=""
                   />
                 </div>
                 <div className="img2">
                   <img
-                   src="assets/img/all-images/hero/wed-1 (2).jpg"
+                   src="assets/img/all-images/hero/wed 2.jpg"
                     alt=""
                   />
                 </div>
                 <div className="img3">
                   <img
-                    src="assets/img/all-images/hero/wed-1 (3).jpg"
+                    src="assets/img/all-images/hero/wed 4.jpg"
                     alt=""
                   />
                 </div>
                 <div className="img4">
                   <img
-                  src="assets/img/all-images/hero/wed-1 (4).jpg"
+                  src="assets/img/all-images/hero/mm.jpg"
                     alt=""
                   />
                 </div>

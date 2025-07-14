@@ -37,7 +37,7 @@ export default function Section8() {
 											<div className="text">
 												<h5>Our Email</h5>
 												<div className="space14" />
-												<Link href="/hushlushevents@gmail.com">hushlush@gmail.com</Link>
+												<Link href="/info@hushlushevents.com">info@hushlushevents<br/>.com</Link>
 											</div>
 										</div>
 										<div className="space18" />
@@ -61,7 +61,7 @@ export default function Section8() {
 											<div className="text">
 												<h5>Call/Message</h5>
 												<div className="space14" />
-												<Link href="/tel:+11234567890">+1 123 456 7890</Link>
+												<Link href="/tel:+11234567890">068850838</Link>
 											</div>
 										</div>
 										<div className="space18" />

@@ -21,7 +21,7 @@ export default function Section2() {
                   data-aos-duration={1000}
                 >
                   <img
-                    src="/assets/img/all-images/about/1.png"
+                    src="/assets/img/all-images/about/abt2.png"
                     alt=""
                   />
                 </div>
@@ -31,7 +31,7 @@ export default function Section2() {
                   data-aos-duration={1100}
                 >
                   <img
-                    src="/assets/img/all-images/about/5.png"
+                    src="/assets/img/all-images/about/abt3.png"
                     alt=""
                   />
                 </div>
@@ -41,7 +41,7 @@ export default function Section2() {
                   data-aos-duration={1200}
                 >
                   <img
-                    src="/assets/img/all-images/about/2.png"
+                    src="/assets/img/all-images/about/abt4.png"
                     alt=""
                   />
                 </div>
@@ -77,7 +77,7 @@ export default function Section2() {
                       <CountUp
                         className="odometer"
                         enableScrollSpy={true}
-                        end={100}
+                        end={30}
                       />
                       +
                     </h3>
@@ -89,7 +89,7 @@ export default function Section2() {
                       <CountUp
                         className="odometer"
                         enableScrollSpy={true}
-                        end={30}
+                        end={20}
                       />
                       +
                     </h3>
@@ -106,7 +106,9 @@ export default function Section2() {
                       +
                     </h3>
                     <div className="space18" />
-                    <p>Happy Couples</p>
+                 <p>Smiles Delivered</p>
+
+
                   </div>
                 </div>
                 <div className="space32" />
